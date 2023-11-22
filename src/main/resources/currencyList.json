@@ -1,0 +1,72 @@
+[
+  {
+    "id": "BTC",
+    "label": "Bitcoin",
+    "coinCount": "18.71 M",
+    "consensus": "Proof of Work",
+    "blockTime": "10 minutes"
+  },
+  {
+    "id": "ETH",
+    "label": "Ethereum",
+    "coinCount": "119.5 M",
+    "consensus": "Proof of Stake",
+    "blockTime": "13-15 seconds"
+  },
+  {
+    "id": "USDT",
+    "label": "Tether",
+    "coinCount": "Not fixed",
+    "consensus": "Depends on platform",
+    "blockTime": "Varies"
+  },
+  {
+    "id": "BNB",
+    "label": "Binance Coin",
+    "coinCount": "168.14 M",
+    "consensus": "Proof of Staked Authority",
+    "blockTime": "1 second"
+  },
+  {
+    "id": "USDC",
+    "label": "USD Coin",
+    "coinCount": "Not fixed",
+    "consensus": "Depends on platform",
+    "blockTime": "Varies"
+  },
+  {
+    "id": "XRP",
+    "label": "Ripple",
+    "coinCount": "48 B",
+    "consensus": "Consensus Protocol",
+    "blockTime": "4 seconds"
+  },
+  {
+    "id": "ADA",
+    "label": "Cardano",
+    "coinCount": "45 B",
+    "consensus": "Ouroboros Praos",
+    "blockTime": "20 seconds"
+  },
+  {
+    "id": "SOL",
+    "label": "Solana",
+    "coinCount": "511 M",
+    "consensus": "Proof of History",
+    "blockTime": "0.4 seconds"
+  },
+  {
+    "id": "BUSD",
+    "label": "Binance USD",
+    "coinCount": "Not fixed",
+    "consensus": "Depends on platform",
+    "blockTime": "Varies"
+  },
+  {
+    "id": "DOGE",
+    "label": "Dogecoin",
+    "coinCount": "132 B",
+    "consensus": "Proof of Work",
+    "blockTime": "1 minute"
+  }
+]
