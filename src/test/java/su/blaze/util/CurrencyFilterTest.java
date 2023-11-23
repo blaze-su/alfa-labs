@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import su.blaze.model.CryptoCurrencyDTO;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -16,9 +17,9 @@ class CurrencyFilterTest {
     @BeforeEach
     void setUp() {
         list = new ArrayList<>();
-        list.add(new CryptoCurrencyDTO("BTC", "Bitcoin", "", "", ""));
-        list.add(new CryptoCurrencyDTO("ETH", "Ethereum", "", "", ""));
-        list.add(new CryptoCurrencyDTO("DOGE", "Dogecoin", "", "", ""));
+        list.add(new CryptoCurrencyDTO("BTC", "Bitcoin", Collections.emptyList()));
+        list.add(new CryptoCurrencyDTO("ETH", "Ethereum", Collections.emptyList()));
+        list.add(new CryptoCurrencyDTO("DOGE", "Dogecoin", Collections.emptyList()));
     }
 
     @Test

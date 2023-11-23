@@ -2,71 +2,101 @@
   {
     "id": "BTC",
     "label": "Bitcoin",
-    "coinCount": "18.71 M",
-    "consensus": "Proof of Work",
-    "blockTime": "10 minutes"
+    "quotes": [
+      {
+        "date": "2023-11-23",
+        "price": "20000.00"
+      }
+    ]
   },
   {
     "id": "ETH",
     "label": "Ethereum",
-    "coinCount": "119.5 M",
-    "consensus": "Proof of Stake",
-    "blockTime": "13-15 seconds"
+    "quotes": [
+      {
+        "date": "2023-11-23",
+        "price": "1500.00"
+      }
+    ]
   },
   {
     "id": "USDT",
     "label": "Tether",
-    "coinCount": "Not fixed",
-    "consensus": "Depends on platform",
-    "blockTime": "Varies"
+    "quotes": [
+      {
+        "date": "2023-11-23",
+        "price": "1.00"
+      }
+    ]
   },
   {
     "id": "BNB",
     "label": "Binance Coin",
-    "coinCount": "168.14 M",
-    "consensus": "Proof of Staked Authority",
-    "blockTime": "1 second"
+    "quotes": [
+      {
+        "date": "2023-11-23",
+        "price": "300.00"
+      }
+    ]
   },
   {
     "id": "USDC",
     "label": "USD Coin",
-    "coinCount": "Not fixed",
-    "consensus": "Depends on platform",
-    "blockTime": "Varies"
+    "quotes": [
+      {
+        "date": "2023-11-23",
+        "price": "1.00"
+      }
+    ]
   },
   {
     "id": "XRP",
     "label": "Ripple",
-    "coinCount": "48 B",
-    "consensus": "Consensus Protocol",
-    "blockTime": "4 seconds"
+    "quotes": [
+      {
+        "date": "2023-11-23",
+        "price": "0.50"
+      }
+    ]
   },
   {
     "id": "ADA",
     "label": "Cardano",
-    "coinCount": "45 B",
-    "consensus": "Ouroboros Praos",
-    "blockTime": "20 seconds"
+    "quotes": [
+      {
+        "date": "2023-11-23",
+        "price": "0.55"
+      }
+    ]
   },
   {
     "id": "SOL",
     "label": "Solana",
-    "coinCount": "511 M",
-    "consensus": "Proof of History",
-    "blockTime": "0.4 seconds"
+    "quotes": [
+      {
+        "date": "2023-11-23",
+        "price": "35.00"
+      }
+    ]
   },
   {
     "id": "BUSD",
     "label": "Binance USD",
-    "coinCount": "Not fixed",
-    "consensus": "Depends on platform",
-    "blockTime": "Varies"
+    "quotes": [
+      {
+        "date": "2023-11-23",
+        "price": "1.00"
+      }
+    ]
   },
   {
     "id": "DOGE",
     "label": "Dogecoin",
-    "coinCount": "132 B",
-    "consensus": "Proof of Work",
-    "blockTime": "1 minute"
+    "quotes": [
+      {
+        "date": "2023-11-23",
+        "price": "0.15"
+      }
+    ]
   }
 ]
